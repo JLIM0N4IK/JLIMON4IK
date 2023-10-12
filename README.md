@@ -16,11 +16,16 @@ https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru
 5. Результат выводится на экран.
 
 ## Использование программы
+
+
 ![GX4EyOpyyp4](https://github.com/JLIM0N4IK/JLIMON4IK/assets/129604382/245011e7-ec58-4e5e-8bb9-69d6d143813a)
 
-using System;
-class Program
-{
+
+
+
+    using System;
+    class Program
+    {
     static void Main()
     {
         // Создаем массив и заполняем его случайными числами
@@ -30,7 +35,6 @@ class Program
         {
             array[i] = random.Next(100);
         }
-
         // Выводим массив на экран
         Console.WriteLine("Массив:");
         foreach (int element in array)
