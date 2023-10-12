@@ -23,6 +23,7 @@ https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru
 
 
 
+
     using System;
     class Program
     {
@@ -68,7 +69,7 @@ https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru
         // Выводим результат на экран
         Console.WriteLine("Сумма элементов между минимальным и максимальным элементами: " + sum);
     }
-}
+  }
 
 1. Скомпилируйте программу с использованием компилятора C#.
 2. Запустите скомпилированную программу.
