@@ -1,4 +1,5 @@
 # Программа для вычисления суммы элементов массива
+![Uploading image.png…]()
 
 Данная программа на языке C# вычисляет сумму элементов массива, расположенных между минимальным и максимальным элементами.
 https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru-p-zloi-shrek-krasivo-28.jpg
@@ -12,6 +13,8 @@ https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru
 5. Результат выводится на экран.
 
 ## Использование программы
+![image](https://github.com/JLIM0N4IK/JLIMON4IK/assets/129604382/d59b5795-b6c6-41b2-9184-2aa624ddb5a2)
+
 using System;
 
 class Program
