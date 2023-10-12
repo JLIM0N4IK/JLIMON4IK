@@ -19,7 +19,6 @@ https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru
 ![GX4EyOpyyp4](https://github.com/JLIM0N4IK/JLIMON4IK/assets/129604382/245011e7-ec58-4e5e-8bb9-69d6d143813a)
 
 using System;
-
 class Program
 {
     static void Main()
@@ -54,7 +53,6 @@ class Program
                 maxIndex = i;
             }
         }
-
         // Вычисляем сумму элементов между минимальным и максимальным элементами
         int sum = 0;
         int startIndex = Math.Min(minIndex, maxIndex) + 1;
@@ -63,11 +61,11 @@ class Program
         {
             sum += array[i];
         }
-
         // Выводим результат на экран
         Console.WriteLine("Сумма элементов между минимальным и максимальным элементами: " + sum);
     }
 }
+
 1. Скомпилируйте программу с использованием компилятора C#.
 2. Запустите скомпилированную программу.
 3. На экране появится массив случайных чисел и сумма элементов между минимальным и максимальным элементами.
