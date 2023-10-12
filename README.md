@@ -75,3 +75,4 @@ https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru
 3. На экране появится массив случайных чисел и сумма элементов между минимальным и максимальным элементами.
 
 Ссылка на дополнительные ресурсы: https://www.youtube.com/watch?v=widVd98BGrI
+                                  https://www.youtube.com/shorts/AHkuTAh7I-Y
