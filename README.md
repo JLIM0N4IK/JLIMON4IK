@@ -1,6 +1,8 @@
 # Программа для вычисления суммы элементов массива
 Данная программа на языке C# вычисляет сумму элементов массива, расположенных между минимальным и максимальным элементами.
 ![scale_1200](https://github.com/JLIM0N4IK/JLIMON4IK/assets/129604382/df60589c-1bf2-4610-adeb-b849a3551ff7)
+
+
 https://github.com/JLIM0N4IK/JLIMON4IK/blob/main/1663139110_24-mykaleidoscope-ru-p-zloi-shrek-krasivo-28.jpg
 ## Описание программы
 ![image](https://github.com/JLIM0N4IK/JLIMON4IK/assets/129604382/dd374bd6-7b3a-4621-824b-65c4c77852c3)
